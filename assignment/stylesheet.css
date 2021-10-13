@@ -9,6 +9,7 @@ header {
 .info {
   background-color: yellow;
   color: gray;
+  text-align: center;
 }
 
 /* wanted to make my image smaller */
