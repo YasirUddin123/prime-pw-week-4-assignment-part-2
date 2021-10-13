@@ -21,10 +21,14 @@ p {
 
 /* added a background and text color to my class div */
 
-.info {
+h2 {
   background-color: #87CEFA;
+  background-position: center;
   color: #2E8B57;
   text-align: center;
+  background-size: 50% auto;
+  width: 100%;
+
 }
 
 /* wanted to make my image smaller */
@@ -32,6 +36,9 @@ p {
 img {
   height:50%;
   width:50%;
+  border: 5px solid black;
+  margin: auto;
+  display: block;
 }
 
 /* added background and text color to h3 */
@@ -39,4 +46,5 @@ img {
 h3 {
   background-color: #FFEFD5;
   color: #A0522D;
+  text-align: center;
 }
