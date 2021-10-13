@@ -1,14 +1,29 @@
 /* added a background color to the header */
+/* I could also use this code for the header content:
+
+.top {
+  background-color: #191970;
+  color: white;
+}
+*/
 
 header {
-  background-color: orange;
+  background-color: #191970;
 }
 
-/* added a yellow background and gray text to my class div */
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+/* added a background and text color to my class div */
 
 .info {
-  background-color: yellow;
-  color: gray;
+  background-color: #87CEFA;
+  color: #2E8B57;
   text-align: center;
 }
 
@@ -19,9 +34,9 @@ img {
   width:50%;
 }
 
-/* added a pink and red text to h3 */
+/* added background and text color to h3 */
 
 h3 {
-  background-color: pink;
-  color: red;
+  background-color: #FFEFD5;
+  color: #A0522D;
 }
