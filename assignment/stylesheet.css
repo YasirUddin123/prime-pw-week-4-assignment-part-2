@@ -1,16 +1,24 @@
+/* added a background color to the header */
+
 header {
   background-color: orange;
 }
+
+/* added a yellow background and gray text to my class div */
 
 .info {
   background-color: yellow;
   color: gray;
 }
 
+/* wanted to make my image smaller */
+
 img {
   height:50%;
   width:50%;
 }
+
+/* added a pink and red text to h3 */
 
 h3 {
   background-color: pink;
